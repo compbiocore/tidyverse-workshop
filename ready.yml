@@ -2,6 +2,7 @@ repo:             tidyverse-workshop
 site_name:        "Visualization in R with tidyverse"
 authors:      
   - name: August Guang
+    github_user: aguang
 site_description: "This workshop is designed to introduce ggplot2 and the tidyverse paradigm for transforming and visualization data in R."
 docs_url:         https://compbiocore.github.io/tidyverse-workshop
 type:             workshop    # required. choose one of [software, tutorial, workshop, documentation]
