@@ -2,7 +2,7 @@
 
 [![Docs](https://img.shields.io/badge/docs-stable-blue.svg?style=flat-square)](https://compbiocore.github.io/tidyverse-workshop)
 [![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](http://nbviewer.jupyter.org/github/compbiocore/tidyverse-workshop/tree/master/notebooks)
-[![License](https://img.shields.io/aur/license/yaourt.svg)](https://raw.githubusercontent.com/compbiocore/tidyverse-workshop/master/LICENSE)
+[![License](https://img.shields.io/github/license/compbiocore/tidyverse-workshop.svg)](https://raw.githubusercontent.com/compbiocore/tidyverse-workshop/master/LICENSE)
 
 ### Workshop Topics
 
