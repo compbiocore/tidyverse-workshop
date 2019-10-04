@@ -6,13 +6,15 @@ The primary workshop, 'Visualization in R with tidyverse', is designed to expand
 
 
 
-## Prior workshop dates and associated notebooks (if different from main)
+## Prior workshop dates and associated notebooks
+
+To access the notebooks, navigate to the `notebooks` folder and click on the appropriate file.
 
 | Date | Workshop | Notebook
 |---|---|---
-| March 1st, 2019 | [CBC Visualization in R with tidyverse and ggplot2](https://events.brown.edu/cobre/view/event/date/20190301/event_id/108625) | Main
+| March 1st, 2019 | [CBC Visualization in R with tidyverse and ggplot2](https://events.brown.edu/cobre/view/event/date/20190301/event_id/108625) | workshop.ipynb
 | March 7th, 2019 | [DSCoV lunch](https://events.brown.edu/brain-science/view/event/event_id/112166) | dscov.ipynb
-| October 4th, 2019 | CBC Visualization in R with tidyverse and ggplot2 | Main
+| October 4th, 2019 | [CBC Visualization in R with tidyverse and ggplot2](https://events.brown.edu/cobre/view/event/date/20191004/event_id/146502) | workshop.ipynb
 
 # Author
 
