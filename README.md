@@ -15,6 +15,7 @@ To access the notebooks, navigate to the `notebooks` folder and click on the app
 | March 1st, 2019 | [CBC Visualization in R with tidyverse and ggplot2](https://events.brown.edu/cobre/view/event/date/20190301/event_id/108625) | workshop.ipynb
 | March 7th, 2019 | [DSCoV lunch](https://events.brown.edu/brain-science/view/event/event_id/112166) | dscov.ipynb
 | October 4th, 2019 | [CBC Visualization in R with tidyverse and ggplot2](https://events.brown.edu/cobre/view/event/date/20191004/event_id/146502) | workshop.ipynb
+| May 5th, 2021 | [CCV Bootcamp 2021](https://app.gitbook.com/@brown-cis/s/bootcamp2021/schuedule/wednesday-5-may) | [R_bootcamp_Tidyverse.ipynb](https://github.com/compbiocore/ccv_bootcamp_R/blob/dev/R_Bootcamp_Tidyverse.ipynb)
 
 # Author
 
